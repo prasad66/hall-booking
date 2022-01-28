@@ -3,6 +3,14 @@
 Heroku Url : https://stdt.herokuapp.com/hall
 <br>
 
+# Heading 1 #
+
+    Markup :  # Heading 1 #
+
+    -OR-
+
+    Markup :  ============= (below H1 text)
+
 <ul>
 TASK: 
 <li>
