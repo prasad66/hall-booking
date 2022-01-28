@@ -23,19 +23,15 @@ TASK:
     Booked customer Details   -  
     https://stdt.herokuapp.com/customersdetail/
 </li>
-<li>
-    POST METHOD
-    Create Room  -  
-    https://stdt.herokuapp.com/rooms/create/    
-</li>
+
     <li>
     
     POST METHOD
     Create Room  -  
     https://stdt.herokuapp.com/rooms/create/   
 </li>
-<li>
-    PUT METHOD
+     <li>
+  PUT METHOD
     Book Room based on availability  -  
     https://stdt.herokuapp.com/rooms/book
 </li>
