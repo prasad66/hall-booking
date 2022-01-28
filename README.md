@@ -28,6 +28,12 @@ TASK:
     Create Room  -  
     https://stdt.herokuapp.com/rooms/create/    
 </li>
+    <li>
+    
+    POST METHOD
+    Create Room  -  
+    https://stdt.herokuapp.com/rooms/create/   
+</li>
 <li>
     PUT METHOD
     Book Room based on availability  -  
